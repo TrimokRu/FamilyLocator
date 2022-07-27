@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Family Locator</string>
+    <string name="main_menu_map">Карта</string>
+    <string name="main_menu_profile">Профиль</string>
+    <string name="logout_btn">Выйти</string>
+    <string name="family">Семья</string>
+    <string name="family_tab_menu">Семья (%d)</string>
+    <string name="request_tab_menu">Заявки (%d)</string>
+    <string name="family_list_delete">Удалить</string>
+    <string name="add_friend_invite">Добавить в друзья</string>
+    <string name="add_friend_email">Email</string>
+    <string name="add_friend_send">Отправить</string>
+    <string name="request_list_accept">Принять</string>
+    <string name="request_list_reject">Отклонить</string>
+    <string name="service_title">Family Locator</string>
+    <string name="service_text">Приложение активно</string>
+    <string name="search_on_map">Найти на карте</string>
+    <string name="meters">метров</string>
+    <string name="not_found_friends">Друзья не найдены!</string>
+    <string name="gps_off">GPS модуль отключен! Включите его для корректной работы!</string>
+    <string name="sos_message">Отправить экстренное уведомление всем друзьям?</string>
+    <string name="btn_yes">Да</string>
+    <string name="btn_no">Нет</string>
+</resources>
